@@ -8,5 +8,5 @@ You can also Request Custom Plugins through Discord and you can also request the
 
 ## Here is the list of my Paid Plugins available Right Now:
 - Revive Plugin **(30$)**
-- Practice Plugin **(250$)**
+- Practice Mode (Practice with Bots) **(250$)**
 
