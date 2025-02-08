@@ -6,6 +6,8 @@ This is **Configuration** file
   "PluginEnabled": true,
   "revive_DrawBeacon": true,        // Draw Beacon when reviving
   "revive_DrawReviveSign": true,    // Draw a revive sign(particle) over dead body of players
+  "revive_CountDeath": true,    // Count the death or Decrease Death of the player who got revived by his teammate (true=Count, false=Decrease)
+  "revive_ReviveFrag": 1,            // Give how many Frags (Kills) to the player who revived his teammate
   "revive_ReviveLimit": 2,            // How many times a Player can revive in a Round
   "revive_cost_mode": 0,            // Cost mode of revive? (0=Disabled, 1=Health, 2=Money, 3=Both)
   "revive_cost_health": 10,            // How much Health is taken away from reviver after he revives his teammate?
